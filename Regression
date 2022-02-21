@@ -1,0 +1,10 @@
+from warnings import filterwarnings
+filterwarnings('ignore')
+
+import pandas as pd
+ad = pd.read_csv("Advertising.csv", usecols = [1,2,3,4])
+df = ad.copy()
+df.head()
+
+
+df.head()
