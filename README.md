@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Regression Models for Wine Quality Dataset.ipynb
+https://github.com/grknc/gurkanc-ml/blob/b2edcdd93ec941c4d78008312fe88facc19fa3d0/Regression%20Models%20for%20Wine%20Quality%20Dataset.ipynb
