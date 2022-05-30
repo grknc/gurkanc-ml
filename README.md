@@ -2,7 +2,7 @@
 
 ### Hi there, I'm Gürkan. :blush:
 
-## Data Scientist | Youtube Content Creator
+## Data Scientist | Machine Learning | Content Creator
 
 
 ### Reach me out 
